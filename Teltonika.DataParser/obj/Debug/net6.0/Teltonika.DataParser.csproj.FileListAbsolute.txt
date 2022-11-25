@@ -1,0 +1,17 @@
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.csproj.AssemblyReference.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.AssemblyInfoInputs.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.AssemblyInfo.cs
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.csproj.CoreCompileInputs.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\bin\Debug\net6.0\Teltonika.DataParser.deps.json
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\bin\Debug\net6.0\Teltonika.DataParser.runtimeconfig.json
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\bin\Debug\net6.0\Teltonika.DataParser.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\bin\Debug\net6.0\Teltonika.DataParser.pdb
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\bin\Debug\net6.0\Teltonika.Codec.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\bin\Debug\net6.0\Teltonika.Codec.pdb
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.csproj.CopyComplete
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\refint\Teltonika.DataParser.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.pdb
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\Teltonika.DataParser.genruntimeconfig.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.DataParser\obj\Debug\net6.0\ref\Teltonika.DataParser.dll

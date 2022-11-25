@@ -1,0 +1,12 @@
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\bin\Debug\net6.0\Teltonika.Codec.deps.json
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\bin\Debug\net6.0\Teltonika.Codec.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\bin\Debug\net6.0\Teltonika.Codec.pdb
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\Teltonika.Codec.csproj.AssemblyReference.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\Teltonika.Codec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\Teltonika.Codec.AssemblyInfoInputs.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\Teltonika.Codec.AssemblyInfo.cs
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\Teltonika.Codec.csproj.CoreCompileInputs.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\Teltonika.Codec.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\refint\Teltonika.Codec.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\Teltonika.Codec.pdb
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\Teltonika.Codec\obj\Debug\net6.0\ref\Teltonika.Codec.dll

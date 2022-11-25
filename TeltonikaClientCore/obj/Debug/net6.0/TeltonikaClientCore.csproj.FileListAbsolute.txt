@@ -1,0 +1,15 @@
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\bin\Debug\net6.0\TeltonikaClientCore.exe
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\bin\Debug\net6.0\TeltonikaClientCore.deps.json
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\bin\Debug\net6.0\TeltonikaClientCore.runtimeconfig.json
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\bin\Debug\net6.0\TeltonikaClientCore.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\bin\Debug\net6.0\TeltonikaClientCore.pdb
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\TeltonikaClientCore.csproj.AssemblyReference.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\TeltonikaClientCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\TeltonikaClientCore.AssemblyInfoInputs.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\TeltonikaClientCore.AssemblyInfo.cs
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\TeltonikaClientCore.csproj.CoreCompileInputs.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\TeltonikaClientCore.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\refint\TeltonikaClientCore.dll
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\TeltonikaClientCore.pdb
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\TeltonikaClientCore.genruntimeconfig.cache
+C:\Users\arasa\Documents\WORK\Projeler\Wiome\TeltonikaSercom\TeltonikaClientCore\obj\Debug\net6.0\ref\TeltonikaClientCore.dll
